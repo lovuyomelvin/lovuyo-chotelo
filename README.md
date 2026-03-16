@@ -1,29 +1,48 @@
 # Hi, I'm Lovuyo Chotelo 👋
 
-🎓 BSc Data Science graduate from Sol Plaatje University
+🎓 **BSc Data Science Graduate** | Sol Plaatje University  
+📍 Kimberley, South Africa  
+💻 Passionate about solving real-world problems using data, machine learning, and simulation modelling.
 
-I am passionate about using data to solve real-world problems through analysis, machine learning, and simulation modelling.
+---
 
-## Technical Skills
-Python | R | SQL | C++  
-Machine Learning | Data Visualization | Simulation Modelling  
-Tableau | Data Analysis | Statistical Modelling
+## 🛠️ Technical Skills
+**Programming & Analysis:** Python | R | SQL | C++  
+**Data Science & ML:** Machine Learning | Simulation Modelling | Data Visualization | Statistical Modelling  
+**Tools & Platforms:** Tableau | Git | Jupyter Notebook | AnyLogic
 
-## Featured Projects
-🚦 Kimberley Traffic Simulation  
-Traffic flow simulation and congestion analysis using AnyLogic and data modelling techniques.
+---
 
-📊 Business Performance Analysis  
-Data analysis project using Python, R, and Tableau to analyse business performance and predict future trends.
+## 🌟 Featured Projects
 
-🤖 Machine Learning Models  
-Predictive models built using Python and machine learning techniques.
+### 🚦 Kimberley Traffic Simulation
+- Traffic flow simulation & congestion analysis using AnyLogic.  
+- Implemented real-world traffic data modelling and optimization strategies.  
+- [Project Link](#) *(add repo link once uploaded)*  
 
-## Interests
-- Data Science
-- Artificial Intelligence
-- Simulation Systems
-- Solving real-world problems with data
+### 📊 Business Performance Analysis
+- Analyzed and visualized business metrics using Python, R, and Tableau.  
+- Built predictive models to forecast trends and support decision-making.  
+- [Project Link](#)  
 
-## Connect With Me
-LinkedIn: https://linkedin.com/in/lovuyomelvin
+### 🤖 Machine Learning Models
+- Predictive models developed for classification and regression tasks.  
+- Includes data cleaning, feature engineering, model evaluation, and visualization.  
+- [Project Link](#)  
+
+---
+
+## 🔭 Current Focus
+- Enhancing simulation modelling skills.  
+- Building end-to-end machine learning pipelines.  
+- Exploring AI and real-world problem solving with data.
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](https://linkedin.com/in/lovuyomelvin) | [GitHub](https://github.com/lovuyo-chotelo)
+
+---
+
+## 📈 GitHub Stats (Optional but Looks Nice)
+![Lovuyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovuyo-chotelo&show_icons=true&theme=radical)
